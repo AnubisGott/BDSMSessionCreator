@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">BDSM Session Creator</string>
+
+    <string-array name="startCommands">
+        <item>Take off clothing!</item>
+        <item>Put on your fetish dress!</item>
+        <item>Get dressed adequate!</item>
+        <item>Put on collar!</item>
+        <item>Put on handcuffs!</item>
+        <item>Bind feet!</item>
+        <item>Bind hands!</item>
+        <item>Bind hands with feet!</item>
+        <item>Bind toes!</item>
+        <item>Bind thumbs!</item>
+        <item>Go in the cage!</item>
+        <item>Put on rubber gloves!</item>
+        <item>Down on your knees!</item>
+        <item>Put on gag!</item>
+        <item>Put on breast clamps!</item>
+        <item>Go in the corner!</item>
+        <item>Put on weights!</item>
+        <item>Put on chastity belt!</item>
+        <item>Use dildo!</item>
+        <item>Use mask!</item>
+        <item>Watch TV!</item>
+        <item>Down to boots!</item>
+        <item>Start spanking!</item>
+        <item>Start custom1!</item>
+        <item>Start custom2!</item>
+        <item>Start custom3!</item>
+        <item>Start custom4!</item>
+    </string-array>
+
+    <string-array name="endCommands">
+        <item>Put your clothing on!</item>
+        <item>Put your clothing on!</item>
+        <item>Put your clothing on!</item>
+        <item>Take off collar!</item>
+        <item>Take off handcuffs!</item>
+        <item>Untie feet!</item>
+        <item>Untie hands!</item>
+        <item>Untie hands with feet!</item>
+        <item>Untie toes!</item>
+        <item>Untie thumbs!</item>
+        <item>Go out cage!</item>
+        <item>Take off rubber gloves!</item>
+        <item>Stand up!</item>
+        <item>Take off gag!</item>
+        <item>Take off breast clamps!</item>
+        <item>Come out of the corner!</item>
+        <item>Take off weights!</item>
+        <item>Take off chastity belt!</item>
+        <item>Stop dildo!</item>
+        <item>Take off mask!</item>
+        <item>Stop watching TV!</item>
+        <item>Go away from boots!</item>
+        <item>Stop spanking!</item>
+        <item>Stop custom1!</item>
+        <item>Stop custom2!</item>
+        <item>Stop custom3!</item>
+        <item>Stop custom4!</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+</resources>

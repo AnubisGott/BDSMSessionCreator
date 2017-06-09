@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.mindmistress4.SessionActivity"
+    android:background="@color/colorPrimaryDark">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:maxLines = "10000000"
+            android:scrollbars = "vertical"
+            android:gravity="bottom"
+            android:layout_width="match_parent"
+            android:layout_height="413dp"
+            android:id="@+id/textView"
+            android:textSize="30sp"
+            android:layout_margin="4sp"
+            android:background="@android:color/background_light" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="266dp"
+                android:layout_height="match_parent"
+                android:id="@+id/nextPointInTimeActionMin"
+                android:textSize="30sp"
+                android:background="@color/colorPrimary"
+                android:layout_marginBottom="4sp"
+                android:layout_marginTop="2sp"
+                android:textColor="@android:color/background_light"
+                android:textAlignment="center"
+                android:gravity="center" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/door_purple_small"
+                android:id="@+id/imageButtonGoMainMenu"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="4sp"
+                android:layout_marginBottom="2sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

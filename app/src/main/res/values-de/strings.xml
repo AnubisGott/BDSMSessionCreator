@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">BDSM Session Creator</string>
+
+    <string-array name="startCommands">
+        <item>Ausziehen!</item>
+        <item>Latexoutfit anziehen!</item>
+        <item>Ziehe ein passendes Outfit an!</item>
+        <item>Halsband anlegen!</item>
+        <item>Handschellen anlegen!</item>
+        <item>Füsse fesseln!</item>
+        <item>Hände fesseln!</item>
+        <item>Hände an Füsse fesseln!</item>
+        <item>Zehen fesseln!</item>
+        <item>Daumen fesseln!</item>
+        <item>Ab in den Käfig!</item>
+        <item>Handschuhe anziehen!</item>
+        <item>Auf die Knie!</item>
+        <item>Knebel anlegen!</item>
+        <item>Brustklammern setzen!</item>
+        <item>Stell dich in die Ecke!</item>
+        <item>Gewichte anbringen!</item>
+        <item>Keuschheitsgürtel anlegen!</item>
+        <item>Dildo benutzen!</item>
+        <item>Haube/Maske benutzen!</item>
+        <item>Schau fernsehen!</item>
+        <item>Runter zum Stiefel!</item>
+        <item>Gerte rausholen!</item>
+        <item>Start custom1!</item>
+        <item>Start custom2!</item>
+        <item>Start custom3!</item>
+        <item>Start custom4!</item>
+    </string-array>
+
+    <string-array name="endCommands">
+        <item>Anziehen!</item>
+        <item>Normale Klamotten anziehen!</item>
+        <item>Normale Klamotten anziehen!</item>
+        <item>Halsband ablegen!</item>
+        <item>Handschellen abnehmen!</item>
+        <item>Füsse losmachen!</item>
+        <item>Hände losmachen!</item>
+        <item>Hände und Füße losmachen!</item>
+        <item>Zehen losmachen!</item>
+        <item>Daumen losmachen!</item>
+        <item>Raus aus dem Käfig!</item>
+        <item>Handschuhe ausziehen!</item>
+        <item>Aufstehen!</item>
+        <item>Knebel ablegen!</item>
+        <item>Brustklammern abnehmen!</item>
+        <item>Raus aus der Ecke!</item>
+        <item>Gewichte abnehmen!</item>
+        <item>Keuschheitsgürtel abnehmen!</item>
+        <item>Dildo weglegen!</item>
+        <item>Haube weglegen!</item>
+        <item>Fernseher aus!</item>
+        <item>Weg vom Stiefel!</item>
+        <item>Genug Gerte!</item>
+        <item>Stop custom1!</item>
+        <item>Stop custom2!</item>
+        <item>Stop custom3!</item>
+        <item>Stop custom4!</item>
+    </string-array>
+
+</resources>

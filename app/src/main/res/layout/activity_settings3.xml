@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="org.mindmistress4.Settings3Activity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <CheckBox
+                android:id="@+id/checkboxhalsband"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/settings_halsband"
+                android:scaleType="center"
+                android:layout_margin="6dp" />
+
+            <CheckBox
+                android:id="@+id/checkboxhandschellen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_handschellen" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_fussfessel"
+                android:id="@+id/checkboxfussfessel" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_handfessel"
+                android:id="@+id/checkboxhandfessel" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_handtofoot"
+                android:id="@+id/checkboxhandtofoot" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_toes"
+                android:id="@+id/checkboxtoes" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_tumbcuff"
+                android:id="@+id/checkboxtumbcuff" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_kaefig"
+                android:id="@+id/checkboxkaefig" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_handschuhe"
+                android:id="@+id/checkboxhandschuhe" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_kniegehen"
+                android:id="@+id/checkboxkniegehen" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_knebel"
+                android:id="@+id/checkboxknebel" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_brustklemmen"
+                android:id="@+id/checkboxbrustklemmen" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_indieeckestellen"
+                android:id="@+id/checkboxindieeckestellen" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_gewichte"
+                android:id="@+id/checkboxgewichte" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_keusch"
+                android:id="@+id/checkboxkeusch" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_plug"
+                android:id="@+id/checkboxplug" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_maske"
+                android:id="@+id/checkboxmaske" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_tv"
+                android:id="@+id/checkboxtv" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_adore"
+                android:id="@+id/checkboxadore" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:button="@drawable/settings_gerte"
+                android:id="@+id/checkboxgerte" />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>
